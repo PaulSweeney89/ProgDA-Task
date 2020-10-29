@@ -25,7 +25,7 @@ Full description of the coursework's assessment & tasks can be [here](link).
 - - - 
 ## Jupyter Notebook
 
-**Note:** all descriptive & programming objectives of the assessment have been fully complete within the interactive Jupyter Notebook environment, please refer to the [NumPy.ipynb](link) within this repository.
+**Note:** all descriptive & programming objectives of the assessment have been fully complete within the interactive Jupyter Notebook environment, please refer to the [NumPy.ipynb](https://github.com/PaulSweeney89/ProgDA-Task/blob/main/NumPy.ipynb) within this repository.
 
 The notebook is assiocated with the Ipython kernal and therfore all code has been written & runs in Python.
 
