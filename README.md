@@ -20,7 +20,7 @@ Provide detailed explanations with working examples for the following items in r
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 
-Full description of the coursework's assessment & tasks can be [here](link).
+Full description of the coursework's assessment & tasks can be [here](https://github.com/PaulSweeney89/ProgDA-Task/blob/main/ProgDA_Assignment.pdf).
 
 - - - 
 ## Jupyter Notebook
