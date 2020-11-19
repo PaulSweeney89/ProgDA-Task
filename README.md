@@ -28,4 +28,11 @@ Full description of the coursework's assessment & tasks can be [here](https://gi
 **Note:** all descriptive & programming objectives of the assessment have been fully complete within the interactive Jupyter Notebook environment, please refer to the [NumPy.ipynb](https://github.com/PaulSweeney89/ProgDA-Task/blob/main/NumPy.ipynb) within this repository.
 
 The notebook is assiocated with the Ipython kernal and therfore all code has been written & runs in Python.
+- - -
+## Python Libraries
+List of Python Packages & Libraries used within the task:
 
+- NumPy, [numpy.org](https://numpy.org/)
+- Seaborn, [seaborn.pydata.org](https://seaborn.pydata.org/)
+- Matplotlib, [matplotlib.org](https://matplotlib.org/)
+- SciPy, [www.scipy.org](https://www.scipy.org/)
