@@ -49,6 +49,12 @@ The fully interactive Jupyter notebook can be accessed via [Anaconda](https://ww
 3. Open the Anaconda Nagivator via the Windows Start Menu & launch the Jupyter Notebook web application or alternatively by opening terminal (cmd on Windows) & typing ``jupyter notebook``.
 4. Within the Jupyter Notebook web application, nagivate to the folder location of the local copy of the repository & open the Jupyter Notebook .ipynb file.
 
+**Cloud-Based Services**
+
+Alternatively to downloading & installing  Anaconda & the Jupyter Notebook environment, cloud based servces such as [Google Colab](https://colab.research.google.com/) can be used to easily run a fully interactive Jupyter notebook in the cloud.
+
+Google Colab is available to anyone with a Google account, it allows for quick creation of notebooks, uploading an existing notebook, or importing a notebook from any public GitHub repository, it comes with most of the commonly used Python libraries pre-installed.
+
 ## Python Libraries
 List of Python Packages & Libraries used within the task:
 
